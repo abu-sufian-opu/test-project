@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.full-website{
+    width: 1024px;
+    text-align: center;
+    margin: 30px auto;
+}
+.title-menu{
+    background-color: rgb(51, 61, 80);
+    padding: 20px 0px;
+}
+.title-menu h1{
+    color: orangered;
+}
+.title-menu h2{
+    color: rgb(10, 225, 253);
+}
+.title-menu p{
+    color: lightgoldenrodyellow;
+}
+#content{
+    background-color: rgb(155, 86, 155);
+    padding: 30px 30px;
+    color: white;
+}
+ul{
+    list-style: none;
+}
+ul li:nth-child(1) a {
+    color: rgb(13, 184, 56);
+    text-decoration: none;
+}
+ul li:nth-child(2) a {
+    color: yellow;
+    text-decoration: none;
+}
+ul li:nth-child(3) a {
+    color: lightgrey;
+    text-decoration: none;
+}
+.footer{
+    background-color: rgb(51, 61, 80); 
+    color: white;
+    padding: 20px 0px;   
+}
